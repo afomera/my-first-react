@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './HelloWorld.css';
+import '../assets/HelloWorld.css';
 
 class HelloWorld extends Component {
   constructor(props) {
